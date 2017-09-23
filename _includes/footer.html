@@ -2,43 +2,45 @@
 
   <div class="wrapper">
 
-    <h2 class="footer-heading">{{ site.title | escape }}</h2>
+    <h2 align="Center">Contact</h2>
 
     <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li>
-            {% if site.author %}
-              {{ site.author | escape }}
-            {% else %}
-              {{ site.title | escape }}
-            {% endif %}
-            </li>
-            {% if site.email %}
-            <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {% endif %}
-        </ul>
+      <div align="Center">
+        
+          <span style="display:inline-block; width: 15px;"></span>
+            <img src="/imgs/email.png"/>
+            <a href="mailto:{{ site.email }}">Email</a></li>
+          <span style="display:inline-block; width: 5px;"></span>
+
+          
+            <img src="/imgs/github.png"/>
+            <a href="https://github.com/Rohithpesala">Github</a>
+          <span style="display:inline-block; width: 5px;"></span>
+
+          
+            <img src="/imgs/linkedin.png"/>
+            <a href="https://www.linkedin.com/in/rpesala/">Linkedin</a>
+          <span style="display:inline-block; width: 5px;"></span>
+          
+          
+            <img src="/imgs/facebook.png"/>
+            <a href="https://www.facebook.com/pesala.rohith">Facebook</a>
+          <span style="display:inline-block; width: 5px;"></span>
+
+          
+            <img src="/imgs/twitter.png"/>
+            <a href="https://twitter.com/RohithPesala">Twitter</a>
+          
+          <span style="display:inline-block; width: 5px;"></span>
+          
+            <img src="/imgs/instagram.png"/>
+            <a href="https://www.instagram.com/rpesala/">Instagram</a>
+          
+        
       </div>
 
-      <div class="footer-col footer-col-2">
-        <ul class="social-media-list">
-          {% if site.github_username %}
-          <li>
-            {% include icon-github.html username=site.github_username %}
-          </li>
-          {% endif %}
-
-          {% if site.twitter_username %}
-          <li>
-            {% include icon-twitter.html username=site.twitter_username %}
-          </li>
-          {% endif %}
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-3">
-        <p>{{ site.description | escape }}</p>
-      </div>
+      
+        
     </div>
 
   </div>

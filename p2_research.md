@@ -1,12 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Research
+permalink: /research/
 ---
-
-
-# EDUCATION
-
-## Masters
 
 More information will be updated soon.
