@@ -6,3 +6,19 @@ github_username: Rohithpesala
 twitter_username: RohithPesala
 facebook_username: pesala.rohith
 linkedin_username: rpesala
+minima:
+  date_format: "%b %-d, %Y"
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: page
+
+  # _about
+  - scope:
+      path: ""
+      type: about
+    values:
+      layout: page
