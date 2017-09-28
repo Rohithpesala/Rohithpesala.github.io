@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Dependency Parsing of Biomedical Articles"
+date:   2017-08-26
+categories: Research
+summary: IESL, UMass Amherst
+---
+Done in IESL.

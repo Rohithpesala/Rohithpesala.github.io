@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Visually Explainable Recommendations using Attentive-CF"
+date:   2017-09-27
+categories: Research
+summary: UMass Amherst, Rutgers University
+---
+This page will talk about the project that is ongoing right now
