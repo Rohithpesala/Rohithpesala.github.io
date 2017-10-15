@@ -10,7 +10,7 @@ summary: With the advances in deep learning, breaking CAPTCHAs has become trivia
 
 __Members__: Rohith Pesala, Archan Ray, Nitish Panigrahy
 
-__Links__: [Github](), [Report](), Presentation ()
+__Links__: [Report](https://drive.google.com/file/d/0B0xRgCn999_gbXRMOWdPR25MQ00/view?usp=sharing), [Presentation](https://drive.google.com/open?id=0B0xRgCn999_gTXlJdlRWZ2JrcE0)
 
 __Summary__:  
 {{page.summary}}  

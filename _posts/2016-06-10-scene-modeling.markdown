@@ -11,7 +11,7 @@ summary: The aim of this project is to create an app that would take video of an
 __Advisors__: Renu Rameshan  
 __Members__: Rohith Pesala
 
-__Links__: [Github](), [Report](), Presentation ()
+__Links__: [Github](https://github.com/Rohithpesala/Scene-Modeling), [Report](https://drive.google.com/file/d/0B0xRgCn999_gdHhUSnVTWGVINFE/view?usp=sharing), [Presentation](https://drive.google.com/open?id=0B0xRgCn999_gQlFTMmFyVHdJZlU)
 
 __Summary__:  
 {{page.summary}}  

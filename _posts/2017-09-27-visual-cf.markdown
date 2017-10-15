@@ -18,6 +18,9 @@ __Summary__:
 
 <hr>
 <br>
-This project is mainly divided into three stages:  
+This project is mainly divided into four stages:  
 
-__Stage 1__:
+__Stage 1__: Extracting item vectors using a CNN Autoencoder.  
+__Stage 2__: Clustering high level features to obtain similarities.  
+__Stage 3__: Learn user vectors from training data.  
+__Stage 4__: Provide recommendations from our data and corresponding explanations.  
