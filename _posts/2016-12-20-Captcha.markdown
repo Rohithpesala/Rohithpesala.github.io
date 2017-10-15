@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Generating harder CAPTCHAs using GAN"
+date:   2016-12-20
+categories: Research
+head: UMass Amherst (Nov 2016 - Dec 2016)
+summary: With the advances in deep learning, breaking CAPTCHAs has become trivial. Instead of using this advances to break the CAPTCHAs, we wanted to use it to improve the quality and make them stronger. The approach we used was to create a generative model using GANs. This was particularly chosen because we could provide feedback and improve the generative model accordingly.
+---
+#### *{{page.head}}*  
+
+__Members__: Rohith Pesala, Archan Ray, Nitish Panigrahy
+
+__Links__: [Github](), [Report](), Presentation ()
+
+__Summary__:  
+{{page.summary}}  

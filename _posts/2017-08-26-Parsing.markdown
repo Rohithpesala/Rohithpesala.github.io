@@ -3,6 +3,15 @@ layout: post
 title:  "Dependency Parsing of Biomedical Articles"
 date:   2017-08-26
 categories: Research
-summary: IESL, UMass Amherst
+head: IESL, UMass Amherst (June 2017 - August 2017)
+summary: This project was done during the summer of 2017 as part of IESL, UMass Amherst. The aim of the project is focused at developing an efficient dependency parser to parse Biomedical articles from PubMed articles. The challenge was to build this parser without any labeled data. We use domain adaptation and techniques like self training to deal with this problem.
 ---
-Done in IESL.
+#### *{{page.head}}*  
+
+__Advisors__: Luke Vilnis, Andrew McCallum, Emma Strubell  
+__Members__: Rohith Pesala
+
+__Links__: [Github](https://github.com/Rohithpesala/Dependency-Parsing), [Report](https://docs.google.com/document/d/1xsH7Y7tWuy1zSomEMrPNCmwHKaEFz3WUepXVonsejD8/edit?usp=sharing), Presentation ([1](https://docs.google.com/presentation/d/1CyNZC159wXhAWrWXcoxPwBs7eh-rtAal0-O0KT122mw/edit?usp=sharing),[2](https://docs.google.com/presentation/d/1-zz8OFiYYJ2pR4uSPGnEJdaWc0t3_ZfdSsVfFToLRJA/edit?usp=sharing))
+
+__Summary__:  
+{{page.summary}}  

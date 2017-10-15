@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Open Domain Dialogue Generation"
+date:   2017-05-05
+categories: Research
+head: UMass Amherst (Mar 2017 - May 2017)
+summary: Development of Conversational agents is an important area to advance the area of General Intelligence. In this project we explored the state of the art Seq2Seq Models. Seq2Seq architecture has proven to produce great results in traanslation. We argue that this model lacks memory which isn't needed for translation but is crucial in dialogue agents. We prove this by showing that the training loss converges faster and the results are better.
+---
+#### *{{page.head}}*  
+
+__Members__: Rohith Pesala
+
+__Links__: [Github](https://github.com/Rohithpesala/Dialogue), [Report](), Presentation ()
+
+__Summary__:  
+{{page.summary}}  

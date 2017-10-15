@@ -3,6 +3,21 @@ layout: post
 title:  "Visually Explainable Recommendations using Attentive-CF"
 date:   2017-09-27
 categories: Research
-summary: UMass Amherst, Rutgers University
+head: UMass Amherst, Rutgers University (Jun 2017, Oct 2017 - present)
+summary: Previous work in this area includes images and deep networks to improve the recommender systems. We argue that at the client level, this information can be used better by providing explanation to the user about why the recommendation was provided. This is mainly done by providing abstract level images and human annotated explanations of these abstractions.
 ---
-This page will talk about the project that is ongoing right now
+#### *{{page.head}}*  
+
+__Advisors__: Yongfeng  
+__Members__: Rohith Pesala, Akul Swamy
+
+__Links__: Will be updated after publishing
+
+__Summary__:  
+{{page.summary}}  
+
+<hr>
+<br>
+This project is mainly divided into three stages:  
+
+__Stage 1__:

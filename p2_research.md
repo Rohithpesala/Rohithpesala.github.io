@@ -23,16 +23,21 @@ permalink: /research/
 <h1>Research  </h1>
  
 
- Here, I describe my projects more in detail than in the resume. Code for all projects isn't available or in some cases confidential. I have provided links to git repos of whatever code I have already written
+ In this page, I describe my projects briefly. Please follow the hyperlink for an in detail description. The links to code or the paper wherever possible.
 
-<ul>
+<ul style="list-style:none;padding-left:0;margin:0">
   {% for post in site.posts %}
   {% assign cat = post.categories | first %}
   {% if cat == "Research" %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <h3><b><a href="{{ post.url }}" style="color:black;">{{ post.title }}</a></b></h3>
+      <font color="silver"><i>{{post.head}}</i> </font>
+      <br>
       {{post.summary}}
     </li>
+    <br>
+    <hr>
+    <br>
   {% endif %}
   {% endfor %}
 </ul>
