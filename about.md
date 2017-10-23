@@ -56,12 +56,12 @@ permalink: /about/
 
 * Ranked in top 200 in codechef USA
 * Second place in Lawn Tennis during an intra-college sports tournamnent.
-* We developed a Voice Controlled Desiccant Dehumidifier that placed second during the open house presentations of design practicum.
+* Developed a Voice Controlled Desiccant Dehumidifier that placed second during the open house presentations of design practicum.
 * Part of the IIT Mandi Lawn Tennis team that participated in inter-IIT sports competition.
-* Our team placed second at a robotics competition, BEST.
+* Placed second at a robotics competition, BEST.
 
 <!-- <br> -->
-
+<!--
 # __Interesting stuff__
 
 * __Work with kids__: Working with kids interests me the most. So, during my undergrad I volunteered for couple of things which involved working with kids.
