@@ -54,11 +54,11 @@ permalink: /about/
 # __Achievements__
 <!-- <hr>   -->
 
-* Ranked in top 200 in codechef USA
+* Supervised participants and served as a judge for HackUmass V.
+* Ranked in top 200 in Codechef USA.
 * Second place in Lawn Tennis during an intra-college sports tournamnent.
 * Developed a Voice Controlled Desiccant Dehumidifier that placed second during the open house presentations of design practicum.
 * Part of the IIT Mandi Lawn Tennis team that participated in inter-IIT sports competition.
-* Placed second at a robotics competition, BEST.
 
 <!-- <br> -->
 <!--
@@ -74,4 +74,4 @@ permalink: /about/
 * __Travel__: Another one of my major interests in life is to travel and explore as much as possible. It's not just the areas that I want to visit. I'd love to visit countries, stay there for sometime and get to know the culture, learn a bit of their language and move on to the next. I am also a big nature lover. That is why I love to go on hikes and go for long drives. Similarly, I also like to do a lot of adventure activities and love having adrenaline rush.
 
 
-<!-- More information will be updated soon. -->
+ More information will be updated soon. -->

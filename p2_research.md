@@ -23,7 +23,7 @@ permalink: /research/
 <h1>Research  </h1>
  
 
- In this page, I describe my projects briefly. Please follow the hyperlink for an in detail description. The links to code or the paper wherever possible.
+ This page describes my projects briefly. Please follow the hyperlink for an in detail description. The links to code or the paper are available wherever possible.
 
 <ul style="list-style:none;padding-left:0;margin:0">
   {% for post in site.posts %}

@@ -1,26 +1,23 @@
 ---
 layout: post
-title:  "Visually Explainable Recommendations using Attentive-CF"
+title:  "Visual Similarity Measure for Recommendations"
 date:   2017-09-27
 categories: Research
-head: UMass Amherst, Rutgers University (Jun 2017, Oct 2017 - present)
-summary: Previous work in this area includes images and deep networks to improve the recommender systems. We argue that at the client level, this information can be used better by providing explanation to the user about why the recommendation was provided. This is mainly done by providing abstract level images and human annotated explanations of these abstractions.
+head: UMass Amherst (Oct 2017 - Dec 2017)
+summary: Motivation for this project is in observing that visual preference of humans affect their decisions. In this work, we implement various models to incorporate this visual information adn show that the results are comparable to the state of the art.
 ---
 #### *{{page.head}}*  
 
-__Advisors__: Yongfeng  
 __Members__: Rohith Pesala, Akul Swamy
 
-__Links__: Will be updated after publishing
+__Links__: [Github](https://github.com/akuls/DL-project), [Report](https://drive.google.com/open?id=1xfo2NSs5en4fpfy0nAnVgKk6w3c4vXyr)
 
 __Summary__:  
 {{page.summary}}  
 
 <hr>
 <br>
-This project is mainly divided into four stages:  
 
-__Stage 1__: Extracting item vectors using a CNN Autoencoder.  
-__Stage 2__: Clustering high level features to obtain similarities.  
-__Stage 3__: Learn user vectors from training data.  
-__Stage 4__: Provide recommendations from our data and corresponding explanations.  
+Present recommendation systems use traditional matrix factorization techniques because they have been hard to beat without extra knowledge. With the surge in deep learning and increase in data, now we have found ways to integrate various mediums of data together. This work aims to develop models that can incorporate the visual information from the images and use that to produce a similarity measure between the user and item.  
+
+The overall pipeline is an end to end network that takes product image, ID and user ID as input and predicts a visual similarity measure between the user and an item. First, we extract features from the product image and they are fed to a deep network along with the user and item embeddings based on their IDs, We use top-N recommendations method of evaluation and precision, Recall and F-Measure as the metrics.
